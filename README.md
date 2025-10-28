@@ -5,7 +5,7 @@ This project analyzes the profitability of agricultural operations across differ
 ## 📊  Goals 
 
 - Use merge to analyze agriculture and climate datasets.
-- Identify top 5 months with lest amount of profits.
+- Identify top 5 months with least amount of profits.
 - Understand which factors impact the revenue and production.
 
 ## 🧪  Tools 
@@ -15,7 +15,7 @@ This project analyzes the profitability of agricultural operations across differ
 
 ## 📈 Insights
 
-- June 2024 had the lowest profit, mainly because of the low rainfall.
+- June 2024 had the lowest profit, mainly because of the low rainfall results.
 - Other months that underperformed didn't have a single cause, but a mix of moderate production, pricing and operational costs.
 
 
